@@ -3,6 +3,7 @@ RENCANA BELAJAR ZWAR
   # dari WPU & Yt lain
   # pahami dan implementasikan
 - Konsistensi belajar
+  # Jangan santai-santai
 - Belajar dasar Laravel
   # Laravel 5 - 11
 - Belajar membuat project 
